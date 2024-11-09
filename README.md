@@ -100,7 +100,8 @@ The Random Forest model may provide a good balance of interpretability and perfo
 
 ## Contributors
 
-Saikiran Barma: Project lead, responsible for data preprocessing, feature engineering, model training, and evaluation.
+##### Saikiran Barma:
+Project lead, responsible for data preprocessing, feature engineering, model training, and evaluation.
 We welcome contributions to improve this project. If you would like to contribute, please follow the steps outlined below.
 
 ## How to Contribute
